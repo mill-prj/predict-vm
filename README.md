@@ -2,8 +2,8 @@
 predict vm 은 정말 간단한 c 기반 vm 입니다
 기계어를 직접 생성하지않습니다
 
-r0~r7 int 용 레지스터
-f0~f3 float 용 레지스터
+r0\~r7 int 용 레지스터
+f0\~f3 float 용 레지스터
 s0 string 주소 참고용 레지스터
 
 왜 predict-vm 이냐하면 초반에는 언어를 기획했습니다
